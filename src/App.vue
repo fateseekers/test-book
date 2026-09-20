@@ -1,5 +1,5 @@
 <template>
-  <router-view />
+  <component :is="$route.meta.layout" />
 </template>
 
 <script setup lang="ts"></script>

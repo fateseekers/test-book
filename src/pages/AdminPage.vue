@@ -6,7 +6,7 @@
 import { defineComponent } from 'vue'
 
 defineComponent({
-  name: 'DefaultLayout'
+  name: 'AdminPage',
 })
 </script>
 
